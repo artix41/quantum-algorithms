@@ -1,2 +1,2 @@
-# quantum-algorithms
-Implementation of classical quantum algorithms using the python library QuTiP
+# Quantum Algorithms
+Implementation of classical quantum algorithms (for both CV and discrete systems)
